@@ -1,0 +1,271 @@
+[
+  {
+    "id": 1,
+    "spaceId": 1,
+    "boothId": 14,
+    "portalTypeId": 1,
+    "eventId": null,
+    "localizedPairs": {
+      "key": "p_gallery_1_tf",
+      "values": [
+        {
+          "localeId": "en_us",
+          "value": "Gallery 1"
+        },
+        {
+          "localeId": "es_es",
+          "value": "Gallery 1 ES"
+        },
+        {
+          "localeId": "it_it",
+          "value": "Gallery 1 IT"
+        }
+      ]
+    },
+    "externalLink": "https://tifoxr.com/p_gallery_1",
+    "correspondingMedia": {
+      "id": "040b0315-e615-476b-9f82-9d39820cf443",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        }
+      ]
+    },
+    "thumbnailMedia": {
+      "id": "c0ab8b0d-d64a-4976-a968-696c59e61409",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "spaceId": 1,
+    "boothId": 1,
+    "portalTypeId": 4,
+    "eventId": null,
+    "localizedPairs": {
+      "key": "p_gallery_2_tf",
+      "values": [
+        {
+          "localeId": "en_us",
+          "value": "Gallery 2"
+        },
+        {
+          "localeId": "es_es",
+          "value": "Gallery 2 ES"
+        },
+        {
+          "localeId": "it_it",
+          "value": "Gallery 2 IT"
+        }
+      ]
+    },
+    "externalLink": "https://tifoxr.com/p_gallery_2",
+    "correspondingMedia": {
+      "id": "040b0315-e615-476b-9f82-9d39820cf443",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        }
+      ]
+    },
+    "thumbnailMedia": {
+      "id": "c0ab8b0d-d64a-4976-a968-696c59e61409",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "spaceId": 1,
+    "boothId": 14,
+    "portalTypeId": 1,
+    "eventId": null,
+    "localizedPairs": {
+      "key": "c3da8e0c-0cd2-4d8c-8377-8a582d2f37e6",
+      "values": [
+        {
+          "localeId": "en_us",
+          "value": "test"
+        }
+      ]
+    },
+    "externalLink": "https://tifoxr.com/p_gallery_3",
+    "correspondingMedia": {
+      "id": "040b0315-e615-476b-9f82-9d39820cf443",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+        }
+      ]
+    },
+    "thumbnailMedia": {
+      "id": "c0ab8b0d-d64a-4976-a968-696c59e61409",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "es_es",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        },
+        {
+          "localeId": "it_it",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "spaceId": 1,
+    "boothId": 2,
+    "portalTypeId": 2,
+    "eventId": 5,
+    "localizedPairs": {
+      "key": "a517a987-9a49-44fa-8538-872e27600c35",
+      "values": [
+        {
+          "localeId": "en_us",
+          "value": "test"
+        }
+      ]
+    },
+    "externalLink": "https://share.google/images/vADzGccTt6UgySBWM",
+    "correspondingMedia": {
+      "id": "46225666-9f13-11f0-9171-00410e6a08ce",
+      "mediaTypeId": 2,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://share.google/images/vADzGccTt6UgySBWM"
+        }
+      ]
+    },
+    "thumbnailMedia": {
+      "id": "462304f0-9f13-11f0-9171-00410e6a08ce",
+      "mediaTypeId": 2,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://share.google/images/vADzGccTt6UgySBWM"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "spaceId": 1,
+    "boothId": 14,
+    "portalTypeId": 1,
+    "eventId": null,
+    "localizedPairs": {
+      "key": "dd24e4da-d236-49f3-b00c-93a4be3fc557",
+      "values": [
+        {
+          "localeId": "en_us",
+          "value": "test"
+        }
+      ]
+    },
+    "externalLink": "https://cdn.example.com/media/p_gallery_2_thumb.jpg",
+    "correspondingMedia": {
+      "id": "6d9bcfc5-9fad-11f0-9171-00410e6a08ce",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_2_thumb.jpg"
+        }
+      ]
+    },
+    "thumbnailMedia": {
+      "id": "6d9ffa4c-9fad-11f0-9171-00410e6a08ce",
+      "mediaTypeId": 1,
+      "textKey": null,
+      "descriptionKey": null,
+      "linkLocalizations": [
+        {
+          "localeId": "en_us",
+          "mediaLink": "https://cdn.example.com/media/p_gallery_2_thumb.jpg"
+        }
+      ]
+    }
+  }
+]
