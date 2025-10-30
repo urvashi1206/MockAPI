@@ -8,7 +8,7 @@
     "values": [
       {
         "localeId": "en_us",
-        "value": "Inter Milan Space Table"
+        "value": "Pro Soccer Space Table"
       }
     ]
   },
@@ -182,7 +182,7 @@
         "values": [
           {
             "localeId": "en_us",
-            "value": "Interista"
+            "value": "Hospitality"
           }
         ]
       },
@@ -342,7 +342,7 @@
         "values": [
           {
             "localeId": "en_us",
-            "value": "Inter Club"
+            "value": "Charities"
           }
         ]
       },
@@ -362,7 +362,7 @@
         "values": [
           {
             "localeId": "en_us",
-            "value": "Made of Inter"
+            "value": "Recognition"
           }
         ]
       },
@@ -402,7 +402,7 @@
         "values": [
           {
             "localeId": "en_us",
-            "value": "San Siro Stadium"
+            "value": "Pro Soccer Stadium"
           }
         ]
       },
@@ -422,7 +422,7 @@
         "values": [
           {
             "localeId": "en_us",
-            "value": "San Siro"
+            "value": "City"
           }
         ]
       },
