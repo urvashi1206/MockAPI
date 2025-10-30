@@ -215,15 +215,15 @@
       "values": [
         {
           "localeId": "en_us",
-          "value": "GMS Stadium"
+          "value": "Pro Soccer Stadium"
         },
         {
           "localeId": "es_es",
-          "value": "Estadio GMS"
+          "value": "Estadio Pro Soccer"
         },
         {
           "localeId": "it_it",
-          "value": "Stadio GMS"
+          "value": "Stadio Pro Soccer"
         }
       ]
     },
