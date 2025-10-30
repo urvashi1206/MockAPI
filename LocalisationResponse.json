@@ -4,7 +4,7 @@
     "values": [
       {
         "localeId": "en_us",
-        "value": "Inter Milan Space Table"
+        "value": "Pro Soccer Space Table"
       }
     ]
   },
@@ -169,15 +169,15 @@
     "values": [
       {
         "localeId": "en_us",
-        "value": "GMS Stadium"
+        "value": "Pro Soccer Stadium"
       },
       {
         "localeId": "es_es",
-        "value": "Estadio GMS"
+        "value": "Estadio Pro Soccer"
       },
       {
         "localeId": "it_it",
-        "value": "Stadio GMS"
+        "value": "Stadio Pro Soccer"
       }
     ]
   },
@@ -482,20 +482,20 @@
     ]
   },
   {
-    "key": "btn_tt1_inter_club",
+    "key": "btn_tt1_charities",
     "values": [
       {
         "localeId": "en_us",
-        "value": "Inter Club"
+        "value": "Charities"
       }
     ]
   },
   {
-    "key": "btn_tt1_interista",
+    "key": "btn_tt1_hospitality",
     "values": [
       {
         "localeId": "en_us",
-        "value": "Interista"
+        "value": "Hospitality"
       }
     ]
   },
@@ -518,11 +518,11 @@
     ]
   },
   {
-    "key": "btn_tt1_made_of_inter",
+    "key": "btn_tt1_recognition",
     "values": [
       {
         "localeId": "en_us",
-        "value": "Made of Inter"
+        "value": "Recognition"
       }
     ]
   },
@@ -554,20 +554,20 @@
     ]
   },
   {
-    "key": "btn_tt1_san_siro",
+    "key": "btn_tt1_city",
     "values": [
       {
         "localeId": "en_us",
-        "value": "San Siro"
+        "value": "City"
       }
     ]
   },
   {
-    "key": "btn_tt1_san_siro_stadium",
+    "key": "btn_tt1_pro_soccer_stadium",
     "values": [
       {
         "localeId": "en_us",
-        "value": "San Siro Stadium"
+        "value": "Pro Soccer Stadium"
       }
     ]
   },
