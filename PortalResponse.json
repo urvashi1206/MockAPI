@@ -67,8 +67,8 @@
   {
     "id": 2,
     "spaceId": 1,
-    "boothId": 1,
-    "portalTypeId": 4,
+    "boothId": 14,
+    "portalTypeId": 1,
     "eventId": null,
     "localizedPairs": {
       "key": "p_gallery_2_tf",
