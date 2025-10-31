@@ -10,15 +10,15 @@
       "values": [
         {
           "localeId": "en_us",
-          "value": "Gallery 1"
+          "value": "New Striker Star On The Team!"
         },
         {
           "localeId": "es_es",
-          "value": "Gallery 1 ES"
+          "value": "New Striker Star On The Team!"
         },
         {
           "localeId": "it_it",
-          "value": "Gallery 1 IT"
+          "value": "New Striker Star On The Team!"
         }
       ]
     },
@@ -31,15 +31,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_973b557706bd4b7c9bb8b2d3db36186c~mv2.png"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_973b557706bd4b7c9bb8b2d3db36186c~mv2.png"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_973b557706bd4b7c9bb8b2d3db36186c~mv2.png"
         }
       ]
     },
@@ -51,15 +51,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_a94223fb1ab34d82abde09ad5c1885b8~mv2.png"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_a94223fb1ab34d82abde09ad5c1885b8~mv2.png"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_a94223fb1ab34d82abde09ad5c1885b8~mv2.png"
         }
       ]
     }
@@ -75,15 +75,15 @@
       "values": [
         {
           "localeId": "en_us",
-          "value": "Gallery 2"
+          "value": "Pro Soccer is Unstoppable"
         },
         {
           "localeId": "es_es",
-          "value": "Gallery 2 ES"
+          "value": "Pro Soccer is Unstoppable"
         },
         {
           "localeId": "it_it",
-          "value": "Gallery 2 IT"
+          "value": "Pro Soccer is Unstoppable"
         }
       ]
     },
@@ -96,15 +96,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_c31d96c051d5468da87dbc16b0e59a7f~mv2.jpeg"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_c31d96c051d5468da87dbc16b0e59a7f~mv2.jpeg"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_c31d96c051d5468da87dbc16b0e59a7f~mv2.jpeg"
         }
       ]
     },
@@ -116,15 +116,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_3a91fdf4be52459bb73f30b753f89327~mv2.png"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_3a91fdf4be52459bb73f30b753f89327~mv2.png"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_3a91fdf4be52459bb73f30b753f89327~mv2.png"
         }
       ]
     }
@@ -140,7 +140,7 @@
       "values": [
         {
           "localeId": "en_us",
-          "value": "test"
+          "value": "Second Championship!"
         }
       ]
     },
@@ -153,15 +153,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_2a9d9ebd0d1a4efe876cf63c4206e1e0~mv2.png"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_2a9d9ebd0d1a4efe876cf63c4206e1e0~mv2.png"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_2a9d9ebd0d1a4efe876cf63c4206e1e0~mv2.png"
         }
       ]
     },
@@ -173,15 +173,15 @@
       "linkLocalizations": [
         {
           "localeId": "en_us",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_db61051de1b141d286c5662c5862f371~mv2.png"
         },
         {
           "localeId": "es_es",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_db61051de1b141d286c5662c5862f371~mv2.png"
         },
         {
           "localeId": "it_it",
-          "mediaLink": "https://cdn.example.com/media/p_gallery_1_thumb.jpg"
+          "mediaLink": "https://static.wixstatic.com/media/69ad65_db61051de1b141d286c5662c5862f371~mv2.png"
         }
       ]
     }
