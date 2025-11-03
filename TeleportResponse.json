@@ -451,6 +451,25 @@
         "x": 209,
         "y": 4,
         "z": -53
+      },
+      {
+      "id": 1123,
+      "nameKey": "btn_tt1_auditorium",
+      "isActive": true,
+      "localizedPairs": {
+        "key": "btn_tt1_auditorium",
+        "values": [
+          {
+            "localeId": "en_us",
+            "value": "Auditorium"
+          }
+        ]
+      },
+      "mapSpot": {
+        "id": 23,
+        "x": 0,
+        "y": 0.3,
+        "z": 0
       }
     }
   ]
