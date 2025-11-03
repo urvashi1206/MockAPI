@@ -437,6 +437,32 @@
     ]
   },
   {
+    "key": "bth_auditorium",
+    "values": [
+      {
+        "localeId": "en_us",
+        "value": "Auditorium"
+      },
+      {
+        "localeId": "es_es",
+        "value": "Auditorium"
+      },
+      {
+        "localeId": "it_it",
+        "value": "Auditorium"
+      }
+    ]
+  },
+  {
+    "key": "btn_tt1_auditorium",
+    "values": [
+      {
+        "localeId": "en_us",
+        "value": "Auditorium"
+      }
+    ]
+  },
+  {
     "key": "btn_tt1_club",
     "values": [
       {
